@@ -1,0 +1,23 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "An application used to track employees",
+  "main": "employeetracker.js",
+  "scripts": {
+    "start": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elhiloyasin/Employee-Management-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elhiloyasin/Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/elhiloyasin/Employee-Management-System#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
