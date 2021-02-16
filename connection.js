@@ -1,4 +1,4 @@
-const mysql = require(mysql);
+const mysql = require('mysql2');
 
 
 const connection = mysql.createConnection({
@@ -14,7 +14,7 @@ const connection = mysql.createConnection({
 
 
 
-  connection.connect(function(error){
+  connection.connect(function(err){
  if(err) throw err
 
   });
