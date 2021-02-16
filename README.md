@@ -2,7 +2,7 @@
 
 ## Description
 
->This is an Employee management system essecially this application uses the Inquirer package to ask the user about his or her work enviroment, perfoming quieres such as CRUD. The application will allow you to view and manage the roles, employees & departments of your company. This application is an efficiant way to view and manage the different positions in your company and keep track of them as well.
+>This is an Employee management system essentially this application uses the __Inquirer__ package to ask the user about his or her work enviroment, perfoming quieres such as __CRUD__. The application will allow you to view and manage the roles, employees & departments of your company. This application is an efficiant way to view and manage the different positions in your company and keep track of them as well.
 
 
 
@@ -24,11 +24,11 @@ A video walkthrough to give you an idea on how this application works.
 
 ## Images of Application 
 
-![Note-Taker](images/homepage.png)
+![View-Employees](images/viewemployees.png)
 
-![Note-Taker](images/notetaker.png)
+![View-Departments](images/viewdepartments.png)
 
-![Note-Taker](images/workoutplan.png)
+![View-Roles](images/viewroles.png)
 
 
 ## Contact Information
