@@ -18,7 +18,7 @@
 A video walkthrough to give you an idea on how this application works.
 ```
 
->[Employee-Management-System](https://www.youtube.com/watch?v=Vilsqcsb8Z8&ab_channel=YasinElhilo)
+>[Employee-Management-System](https://www.youtube.com/watch?v=mtNfNAE9W7w&feature=youtu.be&ab_channel=YasinElhilo)
 
 
 
